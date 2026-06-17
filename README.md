@@ -57,9 +57,9 @@ The plugin automates the conversion process and prepares structured parameter da
 
 ![Exported SAT and IFC files](docs/images/05-result-sat-ifc.png)
 
-### IFC batch export result
+### SAT export result 1 file
 
-![IFC batch export result](docs/images/06-batch-result.png)
+![SAT export result 1 file](docs/images/06-batch-result.png)
 
 ### SAT export with parameter tables
 
