@@ -35,6 +35,52 @@ The plugin automates the conversion process and prepares structured parameter da
 * Filtering of unused family parameters
 * Simplified user interface for selecting conversion mode and folders
 
+## Screenshots
+
+### RFA Converter button in Revit
+
+![RFA Converter button](docs/images/01-rfa-converter-button.png)
+
+### Export mode selection
+
+![Export mode selection](docs/images/02-export-mode-selection.png)
+
+### IFC version selection
+
+![IFC version selection](docs/images/03-ifc-version-selection.png)
+
+### Model Studio parameter remapping
+
+![Model Studio parameter remapping](docs/images/04-model-studio-remapping.png)
+
+### Exported SAT and IFC files
+
+![Exported SAT and IFC files](docs/images/05-result-sat-ifc.png)
+
+### IFC batch export result
+
+![IFC batch export result](docs/images/06-batch-result.png)
+
+### SAT export with parameter tables
+
+![SAT export with parameter tables](docs/images/07-sat-and-parameters.png)
+
+### Parameter table
+
+![Parameter table](docs/images/08-parameter-table.png)
+
+### Source folder selection
+
+![Source folder selection](docs/images/09-batch-folder-selection.png)
+
+### Output folder selection
+
+![Output folder selection](docs/images/10-output-folder-selection.png)
+
+### Batch processing summary
+
+![Batch processing summary](docs/images/11-batch-processing-result.png)
+
 ## Tech stack
 
 * C#
