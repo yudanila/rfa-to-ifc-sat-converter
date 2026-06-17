@@ -108,3 +108,9 @@ The project is being developed as a practical BIM/CAD automation tool for engine
 
 The public repository contains project documentation and portfolio materials.
 Source code may be published later after cleanup and removal of internal or sensitive data.
+
+## Article
+
+Read the full case study here:
+
+[Read the article](docs/article.md)
